@@ -1,6 +1,6 @@
 ## License
 
-Copyright © 2026 Mitchell W. Ii
+Copyright © [2026 Mitchell W. Ii](https://hackaday.io/MitchellL)
 
 This project is open-source hardware. The hardware designs and documentation are licensed under the **CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S-2.0)**. 
 
